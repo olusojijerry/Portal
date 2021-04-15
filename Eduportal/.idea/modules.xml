@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Annotations/Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eduportal.iml" filepath="$PROJECT_DIR$/Eduportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eduportal-admin/Eduportal-admin.iml" filepath="$PROJECT_DIR$/Eduportal-admin/Eduportal-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eduportal-entity/Eduportal-entity.iml" filepath="$PROJECT_DIR$/Eduportal-entity/Eduportal-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eduportal-oauth/Eduportal-oauth.iml" filepath="$PROJECT_DIR$/Eduportal-oauth/Eduportal-oauth.iml" />
+    </modules>
+  </component>
+</project>

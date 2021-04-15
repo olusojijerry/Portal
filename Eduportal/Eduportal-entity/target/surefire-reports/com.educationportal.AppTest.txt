@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.educationportal.AppTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 7, Time elapsed: 13.934 sec - in com.educationportal.AppTest

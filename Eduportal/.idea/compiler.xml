@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Eduportal-admin" />
+        <module name="Eduportal-oauth" />
+        <module name="Annotations" />
+        <module name="Eduportal-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Annotations" target="1.8" />
+      <module name="Eduportal" target="1.8" />
+      <module name="Eduportal-admin" target="1.8" />
+      <module name="Eduportal-entity" target="8" />
+      <module name="Eduportal-oauth" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Annotations" options="-parameters" />
+      <module name="Eduportal-admin" options="-parameters" />
+      <module name="Eduportal-entity" options="-parameters" />
+      <module name="Eduportal-oauth" options="-parameters" />
+    </option>
+  </component>
+</project>

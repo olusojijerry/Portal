@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0990529f-5979-4155-8de1-c992081a8685" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Eduportal" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e6WS8HBrwLnsPI03BeV9NqtWzw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../LeasePlanDigital-20210302T185115Z-001/LeasePlanDigital" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.educationportal.config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.educationportal.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jerry\Documents\Java\Education\Eduportal\Eduportal-entity\src\test" />
+      <recent name="C:\Users\Jerry\Documents\Java\Education\Eduportal\Eduportal-entity\src\main\resources\db\migration" />
+      <recent name="C:\Users\Jerry\Documents\Java\Education\Eduportal\Eduportal-entity\src\main\resources\pac" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.educationportal.service" />
+      <recent name="com.educationportal.repository" />
+      <recent name="com.educationportal.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jerry\Documents\Java\Education\Eduportal\Eduportal-oauth\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.educationportal.App" />
+      <module name="Eduportal-oauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.educationportal.App" />
+      <module name="Eduportal-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.educationportal.App" />
+      <module name="Eduportal-entity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testSchoolBranchService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eduportal-entity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationportal" />
+      <option name="MAIN_CLASS_NAME" value="com.educationportal.AppTest" />
+      <option name="METHOD_NAME" value="testSchoolBranchService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testSchoolsRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Eduportal-entity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educationportal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.educationportal" />
+      <option name="MAIN_CLASS_NAME" value="com.educationportal.AppTest" />
+      <option name="METHOD_NAME" value="testSchoolsRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="JUnit.AppTest.testSchoolBranchService" />
+        <item itemvalue="JUnit.AppTest.testSchoolsRepository" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0990529f-5979-4155-8de1-c992081a8685" name="Default Changelist" comment="" />
+      <created>1593642519376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593642519376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1614715015960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614715015960" />
+    <state width="1237" height="250" key="GridCell.Tab.0.bottom" timestamp="1618400788982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618400788982" />
+    <state width="1237" height="250" key="GridCell.Tab.0.center" timestamp="1618400788982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618400788982" />
+    <state width="1237" height="250" key="GridCell.Tab.0.left" timestamp="1618400788981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618400788981" />
+    <state width="1237" height="250" key="GridCell.Tab.0.right" timestamp="1618400788982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618400788982" />
+    <state width="1237" height="250" key="GridCell.Tab.1.bottom" timestamp="1618400788663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618400788663" />
+    <state width="1237" height="250" key="GridCell.Tab.1.center" timestamp="1618400788662">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1618400788662" />
+    <state width="1237" height="250" key="GridCell.Tab.1.left" timestamp="1618400788662">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1618400788662" />
+    <state width="1237" height="250" key="GridCell.Tab.1.right" timestamp="1618400788662">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="250" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1618400788662" />
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog" timestamp="1615449977222">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1615449977222" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.17.Final/hibernate-core-5.4.17.Final.jar!/org/hibernate/engine/spi/SessionDelegatorBaseImpl.class</url>
+          <line>690</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-admin/src/main/java/com/educationportal/controller/SalaryApi.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-admin/src/main/java/com/educationportal/controller/SalaryApi.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-admin/src/main/java/com/educationportal/controller/SalaryApi.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-admin/src/main/java/com/educationportal/controller/SalaryApi.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-entity/src/test/java/com/educationportal/AppTest.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-oauth/src/main/java/com/educationportal/config/CustomOauth2RequestFactory.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-oauth/src/main/java/com/educationportal/config/CustomOauth2RequestFactory.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Eduportal-oauth/src/main/java/com/educationportal/config/CustomauthenticationProvider.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

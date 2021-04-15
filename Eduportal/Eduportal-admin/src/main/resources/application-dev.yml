@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        client-id: auth-service
+        client-secret: password
+        accessTokenUri: http://localhost:8081/auth/oauth/token
+        userAuthorizationUri: http://localhost:8081/auth/oauth/authorize

@@ -1,0 +1,1 @@
+INSERT INTO role_privilege (role_id, privilege_id) VALUES (2002, 2002), (2002, 2003), (2002, 2004), (2003, 2004)

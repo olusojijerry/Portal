@@ -1,0 +1,4 @@
+com\educationportal\config\resources\annotation\SchoolUserDetails.class
+com\educationportal\config\resources\config\SchoolUserDetailResolver.class
+com\educationportal\config\resources\domain\SchoolOauthUser.class
+com\educationportal\config\resources\CustomWebConfig.class
